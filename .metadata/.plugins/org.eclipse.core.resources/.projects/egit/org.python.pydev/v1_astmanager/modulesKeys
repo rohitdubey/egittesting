@@ -1,0 +1,6 @@
+MODULES_MANAGER_V2
+egit.__init__|/home/praveen/rohitworkspace/egittesting/egit/egit/__init__.py
+egit.settings|/home/praveen/rohitworkspace/egittesting/egit/egit/settings.py
+egit.urls|/home/praveen/rohitworkspace/egittesting/egit/egit/urls.py
+egit.wsgi|/home/praveen/rohitworkspace/egittesting/egit/egit/wsgi.py
+manage|/home/praveen/rohitworkspace/egittesting/egit/manage.py
